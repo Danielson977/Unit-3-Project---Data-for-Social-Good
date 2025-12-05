@@ -1,4 +1,3 @@
-# Unit-3-Project---Data-for-Social-Good
 # Unit 3- Data for Social Good Project
 
 ## Introduction
@@ -39,19 +38,10 @@ EducationRank (int) – rank positions based on lowest education budget percenta
 
 
 
-
-Example: 
-
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
-- **Country** (String) - name of the country 
-- **Population** (int) - number of people in the country 
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons 
-
 ## UML Diagram 
 
 
-
-
+image.png
 
 ## Description 
 
