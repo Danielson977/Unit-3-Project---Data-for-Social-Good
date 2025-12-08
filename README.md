@@ -41,8 +41,7 @@ EducationRank (int) – rank positions based on lowest education budget percenta
 ## UML Diagram 
 
 
-image.png
-
+![UMLDIAGRAM](UML.png)
 ## Description 
 
 This was a project where we discussed the top 10 lowest life expectancy countries and lowest education budgets. We also talked about the top 10 lowest education budget percent countries. Then our app would tell you the average life expectancy and average education budget. Our user story is how I am a member of the World Health Organization. I would like to know which countries have the worst health care, so that I can allocate my resources properly. This helps us figure out the worst countries so they can gain the most assistance. The dataset is from UNICEF and we use it to see the resources and health care so we can allocate smartly.
